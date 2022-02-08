@@ -14,7 +14,7 @@
     "js-yaml": "4.1.0",
     "full-icu": "1.4.0",
     "node-red": "2.1.4",
-    "node-red-contrib-actionflows": "2.0.4",
+    "node-red-contrib-actionflows": "2.1.2",
     "node-red-contrib-alexa-home-skill": "0.1.19",
     "node-red-contrib-bigtimer": "2.7.8",
     "node-red-contrib-cast": "0.2.17",
